@@ -1,0 +1,3 @@
+* * * * * docker run --rm sma-mqtt --InvIP 192.168.1.251 --InvPass <password> --MQTTIP 192.168.1.250 --MQTTTopic solartest/power
+* * * * * docker run --rm sma-mqtt --InvIP 192.168.1.252 --InvPass <password> --MQTTIP 192.168.1.250 --MQTTTopic solartest/power
+
