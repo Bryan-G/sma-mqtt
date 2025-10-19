@@ -1,4 +1,4 @@
-AI generated scripts to add keys from a json payload to Homa Assistant. 
+AI generated scripts to add keys from a json payload to Home Assistant. 
 
 The scripts subscribe to the mqtt topic and then generate the yaml or publishes the discovery topic.
 
